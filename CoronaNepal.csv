@@ -6546,7 +6546,7 @@ data_Date,ID,District,Cases,Deaths,Recovered
 2020-04-17,542,Western Rukum,0,0,0
 2020-04-18,69,Achham,0,0,0
 2020-04-18,51,Arghakhanchi,0,0,0
-2020-04-18,45,Baglung,2,0,1
+2020-04-18,45,Baglung,2,0,0
 2020-04-18,74,Baitadi,0,0,0
 2020-04-18,68,Bajhang,0,0,0
 2020-04-18,67,Bajura,0,0,0
@@ -6579,7 +6579,7 @@ data_Date,ID,District,Cases,Deaths,Recovered
 2020-04-18,72,Kanchanpur,1,0,0
 2020-04-18,50,Kapilvastu,0,0,0
 2020-04-18,40,Kaski,0,0,0
-2020-04-18,27,Kathmandu,5,0,1
+2020-04-18,27,Kathmandu,5,0,2
 2020-04-18,24,Kavrepalanchowk,0,0,0
 2020-04-18,13,Khotang,0,0,0
 2020-04-18,25,Lalitpur,0,0,0
